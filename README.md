@@ -7,5 +7,4 @@ Proiect C# în consolă care:
 - Validează împărțirea la 0
 - Permite rularea repetată cu `y/n`
 
-✅ Ideal pentru începători  
-🎨 Folosește `Console.ForegroundColor` pentru rezultat
+
